@@ -1,2 +1,1 @@
-# CyanogenMod-x86
-An cyanogenmod live cd that you can install on pc
+This is the Alpha version of CyanogenMod-x86
